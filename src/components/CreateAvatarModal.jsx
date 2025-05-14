@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect } from 'react';
+import { useState, useRef} from 'react';
 import { X, Upload, User2 } from 'lucide-react';
 
 function CreateAvatarModal({ isOpen, onClose }) {
